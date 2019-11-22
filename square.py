@@ -1,0 +1,5 @@
+print("Enter the valu of a:-")
+a=input()
+print("Enter the value of b:-")
+b=input()
+print("square=",int(a)*int(a)+2*int(a)*int(b)+int(b)*int(b))
